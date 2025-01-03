@@ -3,6 +3,8 @@
 ### Welcome
 Hey there and welcome to DownCraft Planet, a collection of everything DownCraft (for PS3).
 
+<br>  
+
 ### What Can You Find?
 - Custom MineCraft backups
 - SPRX Menus
@@ -10,8 +12,12 @@ Hey there and welcome to DownCraft Planet, a collection of everything DownCraft 
 - Modded Eboots
 - Custom Skin Packs
 
+<br>  
+
 ### Credit
 Credit goes to Misaki Dev and Everyone that worked on DownCraft over the years.
+
+<br>  
 
 > [!NOTE]
 > Please note that this will be a big project as there's lots to add. Be patient as seeing any results will take a while!
